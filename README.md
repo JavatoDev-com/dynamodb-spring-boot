@@ -1,5 +1,9 @@
 # Spring Boot REST API CRUD With DynamoDB Tutorial
 
+<a href="https://javatodev.com/spring-boot-dynamo-db-crud-tutorial/" target="blank">
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/11/Spring-Boot-REST-API-Using-DynamoDB-Tutorial-800x450.png" alt="Spring Boot REST API CRUD With DynamoDB Tutorial"/>
+</a>
+
 <p align="left">
 Here I’ll explain how we can use both locally deployed DynamoDB instance and DynamoDB tables created on the AWS console. Additionally, I’ll add steps to follow in creating DynamoDB tables in an AWS console, and how to access those from our spring boot REST API using Spring Data.
 
@@ -41,8 +45,10 @@ Related Articles
  - [Spring Boot REST API Using Spring Data MongoDB Tutorial](https://javatodev.com/spring-boot-mongodb-crud-api/)
  - [Exception Handling Spring Boot REST API](https://javatodev.com/exception-handling-spring-boot/)
 
-<h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
-<h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
+<h2>Author Profile</h2>
+
+<h3 align="center">Hi 👋, I'm Chinthaka Dinadasa</h3>
+<h5 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h5>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javatodev" alt="javatodev" /></a> </p> -->
 
